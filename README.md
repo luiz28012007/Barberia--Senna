@@ -15,5 +15,15 @@ Fundada em 2010, a Barbearia Senna já é destaque na cidade e conquista novos c
         <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
 O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
        
-    </body>
+    body {
+    background:"blue" #CCCCCC
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: #FF0000;
+}
 </html>
