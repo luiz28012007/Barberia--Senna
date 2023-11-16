@@ -16,7 +16,10 @@ Fundada em 2020, a Haburgueria Senna já é destaque na cidade e conquista novos
         <p>Oferecemos preços justos e qualidade nos nossos hambúrgueres . 
 O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
        
-    body {
+    body { preços:
+X Bacon: 18,00 reais
+X Salada: 15,00 reais
+X Cheddar : 20,00 reais
     background:"blue" #CCCCCC
 }
 
